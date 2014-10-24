@@ -1,0 +1,39 @@
+/********************
+19Oct2014 JLim Initial custom theme CSS
+Project 3
+********************/
+body {
+padding:20px;
+}
+
+.logo {
+width:500px;
+margin-bottom:20px;
+display:block;
+}
+
+nav ul {
+list-style-type:none;
+padding:5px 0px 5px 0px;
+}
+
+nav ul li {
+display:inline;
+margin-right:10px;
+}
+
+a:link, a:visited, a:active, a:hover {
+text-decoration:underline;
+}
+
+.tags {
+color:grey;
+font-family:consolas;
+}
+
+
+Form
+{
+    color: #989898;
+}
+
